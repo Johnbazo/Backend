@@ -1,0 +1,7 @@
+C:\scrum\Backend\S1-BE-M00\Opdracht1\bin\Debug\Opdracht1.exe.config
+C:\scrum\Backend\S1-BE-M00\Opdracht1\bin\Debug\Opdracht1.exe
+C:\scrum\Backend\S1-BE-M00\Opdracht1\bin\Debug\Opdracht1.pdb
+C:\scrum\Backend\S1-BE-M00\Opdracht1\obj\Debug\Opdracht1.csprojAssemblyReference.cache
+C:\scrum\Backend\S1-BE-M00\Opdracht1\obj\Debug\Opdracht1.csproj.CoreCompileInputs.cache
+C:\scrum\Backend\S1-BE-M00\Opdracht1\obj\Debug\Opdracht1.exe
+C:\scrum\Backend\S1-BE-M00\Opdracht1\obj\Debug\Opdracht1.pdb
